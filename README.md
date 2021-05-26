@@ -3,6 +3,8 @@
 Breakpad is a set of client and server components which implement a
 crash-reporting system.
 
+This fork is used for creating the BugSplat crash signature library.  DJP 26-May-2021
+
 * [Homepage](https://chromium.googlesource.com/breakpad/breakpad/)
 * [Documentation](./docs/)
 * [Bugs](https://bugs.chromium.org/p/google-breakpad/)
